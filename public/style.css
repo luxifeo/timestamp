@@ -1,0 +1,21 @@
+/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+h1 {
+  color: blue;
+}
+ul {
+	border-left: 1px solid blue;
+}
+ul li{
+	padding:10px 0 10px 0;
+}
+.example {
+  display:inline;
+  background-color:yellow;
+}
+.ex {
+  font-size:30px;
+}
